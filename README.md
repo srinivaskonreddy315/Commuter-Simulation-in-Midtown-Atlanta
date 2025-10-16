@@ -6,7 +6,7 @@ This project used R to simulate commuter journeys from home locations to Midtown
 [View on RPubs](https://rpubs.com/srinivaskonreddy315/1245940)
 
 **Download R Markdown File:**  
-[Midtown_Travel_Analysis.Rmd](./code/Midtown_Travel_Analysis.Rmd)
+[Commute_Simulation.Rmd](./code/Commute_Simulation.Rmd)
 
 
 
